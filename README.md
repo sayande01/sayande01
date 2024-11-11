@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan De</h1>
-<h3 align="center">A passionate Data Science and AI enthusiast from India</h3>
+<h3 align="center">A passionate Data Science and AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande01&label=Profile%20views&color=0e75b6&style=flat" alt="sayande01" /> </p>
 
