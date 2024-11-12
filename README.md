@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande01&label=Profile%20views&color=0e75b6&style=flat" alt="sayande01" /> </p>
 
-- 🔭 I’m currently working on [Natural Language Processing (NLP) techniques](https://github.com/sayande01/Natural_Language_Processing)to develop language-driven insights and innovative solutions.
+- 🔭 I’m currently working on an empirical study focused on using [Natural Language Processing](https://github.com/sayande01/Natural_Language_Processing) techniques for industry classification,analyzing textual data from organizations annual reports. This work includes leveraging cosine similarity methods to accurately categorize and differentiate industries based on report content.
 
 - 🌱 I’m currently learning **Deep Learning with TensorFlow, Cloud Architecture (AWS/GCP)**
 
