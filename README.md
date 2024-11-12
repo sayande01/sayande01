@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayande01&label=Profile%20views&color=0e75b6&style=flat" alt="sayande01" /> </p>
 
-- 🔭 I’m currently working on [Natural Language Processing techniques](https://github.com/sayande01/Natural_Language_Processing)
+- 🔭 I’m currently working on [Natural Language Processing (NLP) techniques] to develop language-driven insights and innovative solutions.(https://github.com/sayande01/Natural_Language_Processing)
 
 - 🌱 I’m currently learning **Deep Learning with TensorFlow, Cloud Architecture (AWS/GCP)**
 
